@@ -107,6 +107,7 @@ This project follows the **Page Object Model (POM)**:
 ---
 
 ## 👨‍💻 Author: Sanjana Khandare
+GitHub: https://github.com/sanjanakhandare
 
 ProDigy Infotech – Task 03  
 Automated Login Test for a Web Application
